@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josed3851@gmail.com)
 
 
-![Doug GitHub stats](https://github-readme-stats.vercel.app/api?username=ProDoug21&show_icons=true&theme=cobalt)
+[!Doug GitHub stats](https://github-readme-stats.vercel.app/api?username=ProDoug21&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProDoug21&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) 
 
